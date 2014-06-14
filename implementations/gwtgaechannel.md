@@ -1,6 +1,6 @@
 ### GWT + GAE Channel
 
-Real-time collaborative TodoMVC made with Google Web Toolkit and Google App Engine. Check [demo](http://gwttodomvc.appspot.com/).
+Real-time collaborative TodoMVC app made with Google Web Toolkit and Google App Engine. Check [demo](http://gwttodomvc.appspot.com/).
 
 #### Snippets
 
@@ -60,7 +60,7 @@ Note that [client](http://dprotti.github.io/gwttododoc/java/com/todomvc/client/c
 
 #### Goal
 
-Demonstrate how to implement a real-time collaborative TodoMVC using GWT.
+Demonstrate how to implement a real-time collaborative TodoMVC app using GWT.
 
 #### Design patterns used
 

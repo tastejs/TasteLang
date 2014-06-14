@@ -6,7 +6,7 @@
 ## Implementations
 
 - [GWT + GAE Channel](implementations/gwtgaechannel.md)
-Real-time collaborative TodoMVC made with Google Web Toolkit and Google App Engine.
+Real-time collaborative TodoMVC app made with Google Web Toolkit and Google App Engine.
 
 ## License
 
