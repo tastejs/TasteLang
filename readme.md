@@ -1,12 +1,13 @@
 # TasteLang
 
-> [TodoMVC](http://todomvc.com) for compile-to JavaScript languages.
+> [TodoMVC](http://todomvc.com) for compile-to JavaScript languages
 
 
 ## Implementations
 
-- [GWT + GAE Channel](implementations/gwtgaechannel.md)
-Real-time collaborative TodoMVC app made with Google Web Toolkit and Google App Engine.
+- [GWT + GAE Channel](implementations/gwtgaechannel.md)  
+  Real-time collaborative TodoMVC app made with Google Web Toolkit and Google App Engine.
+
 
 ## License
 
