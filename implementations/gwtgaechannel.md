@@ -108,7 +108,7 @@ GWT 2.6.0, appengine-api-1.0-sdk 1.7.7, gwt-gae-channel 2.0.0, Guava 16.0.1, Gui
 
 ## Community
 
-Issues, comments and PRs welcomed at the [project site](https://github.com/dprotti/todomvc/tree/gwtgaechannel/labs/architecture-examples/gwt-gaechannel).
+Issues, comments and PRs welcomed at the [project site](https://github.com/dprotti/todomvc-gwtgaechannel).
 
 
 ## Articles & Guides
